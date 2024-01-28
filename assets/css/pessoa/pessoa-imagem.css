@@ -1,0 +1,22 @@
+.pessoa__imagem{
+    background: red;
+    background-size: cover;
+    width: 300px;
+    border-radius: 100%;
+    height: 300px;
+    margin: 0 auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.pessoa__imagem--bruna{
+    background-image: url('../../img/pessoas/bruna.jpg');
+}
+
+.pessoa__imagem--douglas{
+    background-image: url('../../img/pessoas/douglas.png');
+}
+
+.pessoa__imagem--ana{
+    background-image: url('../../img/pessoas/ana.jpeg');
+}

@@ -1,0 +1,6 @@
+.pessoa__nome{
+    margin: 1rem 0;
+    font-family: var(--fonte-primaria);
+    color: var(--cor-vermelho);
+    font-size: 2rem;
+}
