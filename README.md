@@ -1,4 +1,4 @@
-<img src="./assets/screenshot.png" alt="Restaurante">
+<img src="./screenshot.png" alt="Restaurante">
 
 # Barão Marmitaria
 
